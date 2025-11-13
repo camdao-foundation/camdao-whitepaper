@@ -18,14 +18,10 @@ This repo contains:
 - Updated compliance notes & DAO framework
 
 ## 📂 Contents
-whitepaper/
-└── Camdao_Whitepaper_v1.1.pdf
-roadmap/
-└── roadmap_2025_2028.md
-tokenomics/
-└── cd_token_allocation_table.md
-governance/
-└── dao_structure.md
+- [Whitepaper (Camdao_Whitepaper_v1.1.pdf)](whitepaper/Camdao_Whitepaper_v1.1.pdf)
+- [Roadmap (2025–2028)](roadmap/roadmap_2025_2028.md)
+- [Token Allocation Table](tokenomics/cd_token_allocation_table.md)
+- [DAO Structure](governance/dao_structure.md)
 
 ## 📬 Contact
 For official inquiries: **team@camdao.xyz**
